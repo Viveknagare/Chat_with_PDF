@@ -40,4 +40,4 @@ vector_store = QdrantVectorStore.from_documents(
     collection_name="Learning_RAG"
 )
 
-print("Indexding of documents done")
+print("Indexing of documents done")

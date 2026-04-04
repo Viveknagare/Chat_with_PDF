@@ -27,3 +27,6 @@ dist/
 
 # Jupyter Notebook checkpoints (if you use notebooks)
 .ipynb_checkpoints/
+
+# Ignore all PDF files
+*.pdf
